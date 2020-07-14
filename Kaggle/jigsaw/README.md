@@ -1,4 +1,6 @@
 ##https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification
+Find the following notebook on my kaggle, please fork me 
+https://www.kaggle.com/saitakli/basic-biderectional-lstm-jigsaw/edit
 
 Can you help detect toxic comments ― and minimize unintended model bias? That's your challenge in this competition.
 
